@@ -16,6 +16,6 @@ C:\xampp\htdocs\**inserte proyecto**
 - [ ] Verificación via JS.
 
 Autores del proyecto:
-* @SergioGeronimo    :new_moon_with_face:
-* Por definir       :x:
-* Por definir       :x:
+* @SergioGeronimo     :art:
+* Por definir         :x:
+* Por definir         :x:
