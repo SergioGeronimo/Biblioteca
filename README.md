@@ -2,7 +2,7 @@
 Proyecto escolar, ejemplo de una *bilbioteca básica* con SQL/XAMPP, HTML5 y PHP.
 
 Usar este proyecto dentro de la carpeta (w10):
-C:\xampp\htdocs\**inserte proyecto**
+C:\xampp\htdocs\\**inserte proyecto**
 
 * Por hacer
 - [ ] Que todos los autores clonen esto.
