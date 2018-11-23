@@ -17,5 +17,5 @@ C:\xampp\htdocs\\**inserte proyecto**
 
 Autores del proyecto:
 * @SergioGeronimo     :art:
-* Por definir         :x:
+* @Majomushi          :unicorn:
 * Por definir         :x:
